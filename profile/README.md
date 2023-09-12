@@ -1,5 +1,5 @@
 # Neural Imagery
-Visit [neuralimagery.com](https://neuralimagery.com) to see an overview of our mission and our house. The goal is to stream visual imagination from your brain. 
+Visit [neuralimagery.com](https://neuralimagery.com) to see an overview of our mission and our house. The goal is to stream visual imagination from your brain.
 
 The house is currently ongoing! Message us if you'd like to attend our demo day in mid to end September in Cambridge, MA.
 
@@ -11,4 +11,4 @@ The house is currently ongoing! Message us if you'd like to attend our demo day 
 
 [neural-imagery-app](https://github.com/neural-imagery/neural-imagery-app) is our frontend code to visualize real-time data (and FFTs of the headset data!) from the backend that the MATLAB backend connects to.
 
-[nlim](https://github.com/neural-imagery/nlim) is the source code for our [website](https://www.neuralimagery.com/).
+[nlim](https://github.com/neural-imagery/nlim) is our Python backend to both relay the MATLAB code and connect to the ML pipeline.
