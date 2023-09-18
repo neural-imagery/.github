@@ -1,7 +1,7 @@
 # Neural Imagery
 Visit [neuralimagery.com](https://neuralimagery.com) to see an overview of our mission and our house. The goal is to stream visual imagination from your brain.
 
-The house is currently ongoing! Message us if you'd like to attend our demo day in mid to end September in Cambridge, MA.
+The house is currently ongoing! Message us if you'd like to attend our demo day September 23/24 evening in Cambridge, MA.
 
 ## Repo Breakdown
 
