@@ -12,3 +12,11 @@ The house has concluded, and we are pending paper publication. The zoom recordin
 [neural-imagery-app](https://github.com/neural-imagery/neural-imagery-app) is our frontend code to visualize real-time data (and FFTs of the headset data!) from the backend that the MATLAB backend connects to.
 
 [nlim](https://github.com/neural-imagery/nlim) is our Python backend to both relay the MATLAB code and connect to the ML pipeline.
+
+[signal-classifier](https://github.com/neural-imagery/signal-classifier) contains an ML pipeline specifically for retinotopy data.
+
+[ml](https://github.com/neural-imagery/ml) contains various pre- and post-processing algorithms to reconstruct images from the raw fNIRS data.
+
+[movie-player](https://github.com/neural-imagery/movie-player) provides pre-configured stimulus to subjects during experiments and saves stimulus presentation timestamps for later analysis.
+
+[data-experiments](https://github.com/neural-imagery/data-experiments) is similar to `movie-player`, but runs more types of experiments and stores more metadata.
