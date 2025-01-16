@@ -1,7 +1,7 @@
 # Neural Imagery
 Visit [neuralimagery.com](https://neuralimagery.com) to see an overview of our mission and our house. The goal is to stream visual imagination from your brain.
 
-The house has concluded, and we are pending paper publication. The zoom recording of our September 24 demo day in Cambridge, MA can be accessed [here](https://harvard.zoom.us/rec/share/Lu1hCwnSOzA3Ms1T4iTq03R5-1q_OFMjEjbjNOoZIRDYvADXaTt75Lo5FnetV28-.JQ90F8r4fbi9JLg1).
+The house has concluded, and we are pending paper publication. The zoom recording of our September 24 demo day in Cambridge, MA can be accessed [here](https://harvard.zoom.us/rec/share/Lu1hCwnSOzA3Ms1T4iTq03R5-1q_OFMjEjbjNOoZIRDYvADXaTt75Lo5FnetV28-.JQ90F8r4fbi9JLg1). Our paper is [here](https://arxiv.org/abs/2406.07662).
 
 ## Repo Breakdown
 
